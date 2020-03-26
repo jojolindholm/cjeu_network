@@ -1,5 +1,7 @@
 # cjeu_network
 
+## Introduction
+
 The repository contains citation network data for the Court of Justice of the European Union conisting of all references in all CJEU decision published in the EU's Eur-lex database. The data builds on metadata collected from Eur-lex database, processed at PluriCourts, and that forms part of the CJEU database project. 
 
 The data has been updated to include all changes until 4 March 2020. The network consists of 171,183 references (edges in the network) between 22,422 cases (vertices in the network). The data contains the R-script used to generate the data and two data files:
@@ -15,7 +17,11 @@ The ECLI numbers is used as the unique judgment identifier. The data includes th
 * Betweenness [5], [6]
 Additionally, the data contains community memberships calculated using the InfoMap equation. [7]
 
-Suggested citation: Johan Lindholm, _CJEU Citation Network_, 4 March 2020. http://https://github.com/jojolindholm/cjeu_network
+## Suggested citation
+
+Johan Lindholm, _CJEU Citation Network_, 4 March 2020. http://https://github.com/jojolindholm/cjeu_network
+
+## Sources
 
 [1] Sergey Brin and Larry Page: The Anatomy of a Large-Scale Hypertextual Web Search Engine. Proceedings of the 7th World-Wide Web Conference, Brisbane, Australia, April 1998.
 
