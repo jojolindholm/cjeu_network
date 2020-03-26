@@ -19,7 +19,7 @@ Additionally, the data contains community memberships calculated using the InfoM
 
 ## Suggested citation
 
-Johan Lindholm, _CJEU Citation Network_, 4 March 2020. http://https://github.com/jojolindholm/cjeu_network
+Johan Lindholm, _CJEU Citation Network_, 4 March 2020. https://github.com/jojolindholm/cjeu_network
 
 ## Sources
 
