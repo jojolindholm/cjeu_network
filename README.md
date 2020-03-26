@@ -18,10 +18,16 @@ Additionally, the data contains community memberships calculated using the InfoM
 Suggested citation: Johan Lindholm, _CJEU Citation Network_, 4 March 2020. http://https://github.com/jojolindholm/cjeu_network
 
 [1] Sergey Brin and Larry Page: The Anatomy of a Large-Scale Hypertextual Web Search Engine. Proceedings of the 7th World-Wide Web Conference, Brisbane, Australia, April 1998.
+
 [2] J. Kleinberg. Authoritative sources in a hyperlinked environment. Proc. 9th ACM-SIAM Symposium on Discrete Algorithms, 1998. Extended version in Journal of the ACM 46(1999). Also appears as IBM Research Report RJ 10076, May 1997.
+
 [3] Yonatan Lupu and Erik Voeten (2012). Precedent in International Courts: A Network Analysis of Case Citations by the European Court of Human Rights. British Journal of Political Science, 42, pp 413-439 doi:10.1017/S0007123411000433.
+
 [4] Mattias Derlén and Johan Lindholm, Is it Good Law? Network Analysis and the CJEU’s Internal Market Jurisprudence
 Journal of International Economic Law, 2017, 20, 257–277 doi: 10.1093/jiel/jgx011
+
 [5] Freeman, L.C. (1979). Centrality in Social Networks I: Conceptual Clarification. Social Networks, 1, 215-239.
+
 [6] Ulrik Brandes, A Faster Algorithm for Betweenness Centrality. Journal of Mathematical Sociology 25(2):163-177, 2001.
+
 [7] M. Rosvall and C. T. Bergstrom, Maps of information flow reveal community structure in complex networks, PNAS 105, 1118 (2008) http://dx.doi.org/10.1073/pnas.0706851105, http://arxiv.org/abs/0707.0609
