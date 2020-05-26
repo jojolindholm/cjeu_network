@@ -15,6 +15,7 @@ The ECLI numbers is used as the unique judgment identifier. The data includes th
 * Initial Hub Score [3]
 * HubRank [4]
 * Betweenness [5], [6]
+
 Additionally, the data contains community memberships calculated using the InfoMap equation. [7]
 
 ## Suggested citation
